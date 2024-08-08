@@ -5,7 +5,7 @@ Objective:- To Examine the dataset with SQL and help the store understand its bu
            by answering simple questions.
 
 Files:-
-album2
+album2\n
 artist
 customer
 employee
