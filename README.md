@@ -5,16 +5,16 @@ Objective:- To Examine the dataset with SQL and help the store understand its bu
            by answering simple questions.
 
 Files:-
-album2\n
-artist
-customer
-employee
-genre
-invoice
-invoice_line
+album2,
+artist,
+customer,
+employee,
+genre,
+invoice,
+invoice_line,
 track
 
-Analysis:- I have analyzed the music store data by these questions in SQL
+Analysis:- I have analyzed the music store data by solving these questions in SQL.
 
 Questions:-
 1.who is the senior most employee based on job title?
