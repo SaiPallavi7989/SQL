@@ -1,2 +1,4 @@
 # SQL
-Employees and Smart Devices Analysis Data 
+Music Store Data Analysis
+
+Objective: 
